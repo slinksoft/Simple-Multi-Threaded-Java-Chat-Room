@@ -19,6 +19,7 @@ Typing anything else other than the commands above will result as a message that
 
 Completed work:
 - Server is multi-threaded
+- Client is multi-threaded
 - ArrayLists of PrintWriters are synced with all users, even when users log out of the server
 - Chatroom functional
 
